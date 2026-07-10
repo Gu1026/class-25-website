@@ -104,3 +104,5 @@ background-image: url("assets/images/hero-bg.svg");
 ## 浏览器兼容性
 
 推荐使用最新版 Chrome、Edge、Firefox 或 Safari。网站支持电脑、平板和手机，并会自动尊重系统的“减少动态效果”设置。
+
+网站部署于 GitHub Pages。
